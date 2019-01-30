@@ -18,7 +18,7 @@
   
   
 <div align="center">
-  <strong>The <a href="#our-idea">"crowd-organized"</a> meetup based in <a href="https://en.wikipedia.org/wiki/Tyrol_(state)">Tirol</a>, Austria.</strong>
+  <strong>The <a href="#our-idea">"crowd-organized"</a> software engineering meetup based in <a href="https://en.wikipedia.org/wiki/Tyrol_(state)">Tirol</a>, Austria.</strong>
 </div>
 
 <div align="center">
@@ -38,7 +38,24 @@
 </div>
 
 ## Next Meetup
+<h3 align="center">
+  <span><img src="assets/img/calender.png" height="20px" alt="calender-icon"></img>&nbsp;</span>
+  <span>12.02.2019</span>
+  <span>&nbsp;<img src="assets/img/clock.png" height="20px" alt="calender-icon"></img>&nbsp;</span>
+  <span>18:30</span>
+  <span>&nbsp;<img src="assets/img/location.png" height="20px" alt="calender-icon"></img>&nbsp;</span>
+  <span><a href="#">TBA</a></span>
+</h3>
+
+<h4 align="center">Marcel</4>
+<div align="center">Something with F# ⚡</div>
+<h4 align="center">Bernhard Mayr</h4>
+<div align="center">Trapped in the wrong sense of safety - How developers can safely feel safe.</div>
+<h4 align="center">Juan Luis Vicci & Bernhard Mayr</h4>
+<div align="center">What's this <code>un&lt;meet&gt;up</code> thing?</div>
 
 ## Our Idea
+TODO
 
 ## Contributing
+TODO
