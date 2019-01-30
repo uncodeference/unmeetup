@@ -39,7 +39,7 @@
 
 ## Next Meetup
 <h3 align="center">
-  <span><img src="assets/img/calender.png" height="20px" alt="calender-icon"></img>&nbsp;</span>
+  <span><img src="assets/img/calendar.png" height="20px" alt="calender-icon"></img>&nbsp;</span>
   <span>12.02.2019</span>
   <span>&nbsp;<img src="assets/img/clock.png" height="20px" alt="calender-icon"></img>&nbsp;</span>
   <span>18:30</span>
@@ -47,11 +47,11 @@
   <span><a href="#">TBA</a></span>
 </h3>
 
-<h4 align="center">Marcel</4>
+<h3 align="center">Marcel</h3>
 <div align="center">Something with F# ⚡</div>
-<h4 align="center">Bernhard Mayr</h4>
+<h3 align="center">Bernhard Mayr</h3>
 <div align="center">Trapped in the wrong sense of safety - How developers can safely feel safe.</div>
-<h4 align="center">Juan Luis Vicci & Bernhard Mayr</h4>
+<h3 align="center">Juan Luis Vicci & Bernhard Mayr</h3>
 <div align="center">What's this <code>un&lt;meet&gt;up</code> thing?</div>
 
 ## Our Idea
