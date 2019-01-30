@@ -37,7 +37,7 @@
   </h3>
 </div>
 
-## Next Meetup
+<h2>Next Meetup (<a href="meetups/2019-02-12">1<sup>st</sup>)
 <h3 align="center">
   <span><img src="assets/img/calendar.png" height="14px" alt="calender-icon"></img>&nbsp;</span>
 <span><b>12.02.2019</b></span>
