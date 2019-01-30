@@ -1,6 +1,6 @@
 <h1 align="center">
   <span>&emsp;&emsp;&emsp;</span>
-  <span><code>un&lt;meet&gt;up</code></span>
+  <span><a href="https://unmeetup.io"><code>un&lt;meet&gt;up</code></a></span>
   <span>
     <span>&#8239;</span>
     <a href="TODO">
@@ -24,7 +24,7 @@
 
 <div align="center">
   <h3>
-    <a href="#our-un-meet-up-idea">
+    <a href="#our-idea">
       What's this?
     </a>
     <span> | </span>
@@ -38,8 +38,8 @@
   </h3>
 </div>
 
-## Next meetup
+## Next Meetup
 
-## Our `un<meet>up` Idea
+## Our Idea
 
 ## Contributing
