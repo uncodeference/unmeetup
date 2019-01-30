@@ -39,14 +39,12 @@
 
 ## Next Meetup
 <h3 align="center">
-  <b>
-    <span><img src="assets/img/calendar.png" height="14px" alt="calender-icon"></img>&nbsp;</span>
-    <span>12.02.2019</span>
-    <span>&nbsp;<img src="assets/img/clock.png" height="14px" alt="calender-icon"></img>&nbsp;</span>
-    <span>18:30</span>
-    <span>&nbsp;<img src="assets/img/location.png" height="14px" alt="calender-icon"></img>&nbsp;</span>
-    <span><a href="#">tba</a></span>
-  </b>
+  <span><img src="assets/img/calendar.png" height="14px" alt="calender-icon"></img>&nbsp;</span>
+<span><b>12.02.2019</b></span>
+  <span>&nbsp;<img src="assets/img/clock.png" height="14px" alt="calender-icon"></img>&nbsp;</span>
+  <span><b>18:30</b></span>
+  <span>&nbsp;<img src="assets/img/location.png" height="14px" alt="calender-icon"></img>&nbsp;</span>
+  <span><a href="#">tba</a></span>
 </h3>
 
 <h3 align="center">Marcel</h3>
