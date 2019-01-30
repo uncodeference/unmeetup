@@ -1,9 +1,8 @@
 <h1 align="center">
-  <span>&emsp;&emsp;&emsp;</span>
   <span><a href="https://unmeetup.io"><code>un&lt;meet&gt;up</code></a></span>
   <span>
     <span>&#8239;</span>
-    <a href="TODO">
+    <a href="https://www.meetup.com/de-DE/ReactJS-Tirol/">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Meetup_Logo.png" height="28px" alt="meetup-icon"></img>
     </a>
     <span>&#8239;</span>
