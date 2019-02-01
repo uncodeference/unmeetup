@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="#">1<sup>st</sup> Meetup</a> // 12.02.2019 // Location TBA
+  <a href="#">1<sup>st</sup> Meetup</a> // 12.02.2019 - 18:30 // Location TBA
 </h1>
 
 #### [Marcel Ritter](http://marcel-ritter.com/) // Something with F# // ⚡
