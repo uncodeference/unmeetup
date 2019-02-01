@@ -55,7 +55,7 @@
 <div align="center">What's this <code>un&lt;meet&gt;up</code> thing?</div>
 
 ## Our Idea
-TODO
+We are gonna talk about this at the first meetup, and until then of course there will be more than a "todo"... 😉
 
 ## Contributing
-TODO
+This will also be a discussing point at the first meetup, we've got a lot of ideas, but want to hear from you what you think of those. 
