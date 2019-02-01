@@ -44,7 +44,7 @@
   <span>&nbsp;<img src="assets/img/clock.png" height="14px" alt="calender-icon"></img>&nbsp;</span>
   <span><b>18:30</b></span>
   <span>&nbsp;<img src="assets/img/location.png" height="14px" alt="calender-icon"></img>&nbsp;</span>
-  <span><a href="#">tba</a></span>
+  <span><a href="https://www.google.com/maps/search/?api=1&query=Das+Wundervoll%2C+Pembaurstra%C3%9Fe+14%2C+Innsbruck%2C+6020%2C+at&query_place_id=ChIJC9nhnlNpnUcRPmMmmqId7v0">Das Wundervoll, Pembaurstraße 14 · Innsbruck</a></span>
 </h3>
 
 <h3 align="center">Marcel Ritter</h3>
