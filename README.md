@@ -47,8 +47,8 @@
   <span><a href="#">tba</a></span>
 </h3>
 
-<h3 align="center">Marcel</h3>
-<div align="center">Something with F# ⚡</div>
+<h3 align="center">Marcel Ritter</h3>
+<div align="center">Eye tracking analysis via F# ⚡</div>
 <h3 align="center">Bernhard Mayr</h3>
 <div align="center">Trapped in the wrong sense of safety - How developers can safely feel safe.</div>
 <h3 align="center">Juan Luis Vicci & Bernhard Mayr</h3>
