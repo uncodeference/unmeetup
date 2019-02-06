@@ -44,7 +44,7 @@
   <span>&nbsp;<img src="assets/img/clock.png" height="14px" alt="calender-icon"></img>&nbsp;</span>
   <span><b>18:30</b></span>
   <span>&nbsp;<img src="assets/img/location.png" height="14px" alt="calender-icon"></img>&nbsp;</span>
-  <span><a href="#">TBA</a></span>
+  <span><a href="https://goo.gl/maps/BxEQw5txnyR2">InnCubator</a></span>
 </h3>
 
 <h3 align="center">Marcel Ritter</h3>
