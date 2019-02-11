@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="#">1<sup>st</sup> Meetup</a> // 12.02.2019 - 18:30 // <a href="https://goo.gl/maps/BxEQw5txnyR2">InnCubator</a>
+  <a href="https://www.meetup.com/de-DE/unmeetup-tirol/events/258586810/">1<sup>st</sup> Meetup</a> // 12.02.2019 - 18:30 // <a href="https://goo.gl/maps/BxEQw5txnyR2">InnCubator</a>
 </h1>
 
 #### [Marcel Ritter](http://marcel-ritter.com/) // Something with F# // ⚡
