@@ -37,22 +37,18 @@
   </h3>
 </div>
 
-## [Next Meetup](meetups/2019-02-12)
+## [Next Meetup](meetups/2019-05-09)
 <h3 align="center">
   <span><img src="assets/img/calendar.png" height="14px" alt="calender-icon"></img>&nbsp;</span>
-<span><b>12.02.2019</b></span>
+<span><b>09.05.2019</b></span>
   <span>&nbsp;<img src="assets/img/clock.png" height="14px" alt="calender-icon"></img>&nbsp;</span>
   <span><b>18:30</b></span>
   <span>&nbsp;<img src="assets/img/location.png" height="14px" alt="calender-icon"></img>&nbsp;</span>
-  <span><a href="https://goo.gl/maps/BxEQw5txnyR2">InnCubator</a></span>
+  <span><a href="TBA">TBA</a></span>
 </h3>
 
-<h3 align="center">Marcel Ritter</h3>
-<div align="center">Eye tracking analysis via F# ⚡</div>
-<h3 align="center">Bernhard Mayr</h3>
-<div align="center">Trapped in the wrong sense of safety - How developers can safely feel safe.</div>
-<h3 align="center">Juan Luis Vicci & Bernhard Mayr</h3>
-<div align="center">What's this <code>un&lt;meet&gt;up</code> thing?</div>
+<h3 align="center">You have something to share with the community?</h3>
+<div align="center"><a href="https://github.com/uncodeference/unmeetup/issues/new/choose">We would ♥ to hear from you! 😊</a></div>
 
 ## Our Idea
 We are gonna talk about this at the first meetup, and until then of course there will be more than a "todo"... 😉
