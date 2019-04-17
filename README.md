@@ -50,12 +50,24 @@
 <h3 align="center">You have something to share with the community?</h3>
 <div align="center"><a href="https://github.com/uncodeference/unmeetup/issues/new/choose">We would ♥ to hear from you! 😊</a></div>
 
-Just propose some talk idea via GitHub Issues or hit us up on Twitter. And **remember**, every dev-related topic is interesting and worth to talk about. The un&lt;meet&gt;up is the best place to get started with speaking. 💗
+
+Just propose some talk idea via GitHub Issues or hit us up on Twitter. And **remember**, every dev-related topic is interesting and worth to talk about. The **un&lt;meet&gt;up** is the best place to get started with speaking. 💗
 
 Thanks a lot to [txture.io](https://www.txture.io/de) for hosting us! 👏
 
 ## Our Idea
-We are gonna talk about this at the first meetup, and until then of course there will be more than a "todo"... 😉
+After a really long session at the first meetup we finally have our idea ready. The un%lt;meet$gt;up will be a quaterly crowd-organized Meetup for all things "software-engineering/development"-related stuff, where we encourage everyone to speak! The coordination will be done by [Juan](https://twitter.com/jnvicci) and [Bernhard](https://twitter.com/bemayr) in this repository.
+A lot of inspiration is taken from our friends of [Technologieplauscherl](http://technologieplauscherl.at/) in Linz.
+We want to connect people and ecourage everyone to share his ideas and projects, which leads to this short description.
+1. The presentation time is around 30m (no problem if it is shorter, you can also do a lightning talk)
+2. There will be 2 to 3 talks per Meetup
+3. Everybody can present!
+4. The topic should be around softare engineering/development/technology
 
 ## Contributing
-This will also be a discussing point at the first meetup, we've got a lot of ideas, but want to hear from you what you think of those. 
+Because of the "crowd-sourced" aspect of the meetup we would really like everyone to participate! [Here you go!](https://github.com/uncodeference/unmeetup/issues/new/choose)
+1. Propose a talk, we would love to have you!
+2. Suggest a talk idea, maybe you encourage someone to speak about this topic!
+3. You can offer a location, we would be glad to bring all those developers to your company/space/whatever!
+4. Contributing to this repository, we would like to build a pretty website based on this! The domain is already reserved 😉
+If you have any other idea, please just open an issue and let us know.
