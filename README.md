@@ -42,9 +42,9 @@
   <span><img src="assets/img/calendar.png" height="14px" alt="calender-icon"></img>&nbsp;</span>
 <span><b>09.05.2019</b></span>
   <span>&nbsp;<img src="assets/img/clock.png" height="14px" alt="calender-icon"></img>&nbsp;</span>
-  <span><b>18:30</b></span>
+  <span><b>18:15</b></span>
   <span>&nbsp;<img src="assets/img/location.png" height="14px" alt="calender-icon"></img>&nbsp;</span>
-  <span><a href="TBA">TBA</a></span>
+  <span><a href="https://www.google.com/maps/search/?api=1&query=Txture+GmbH%2C+Grabenweg+68%2C+Innsbruck%2C+6020%2C+at&query_place_id=ChIJifLJUpdrnUcRgwM9HzUAb7Q">Txture GmbH</a></span>
 </h3>
 
 <h3 align="center">You have something to share with the community?</h3>
