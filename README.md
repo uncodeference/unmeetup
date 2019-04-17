@@ -48,8 +48,7 @@
 </h3>
 
 <h3 align="center">You have something to share with the community?</h3>
-<div align="center"><a href="https://github.com/uncodeference/unmeetup/issues/new/choose">We would ♥ to hear from you! 😊</a></div>
-
+<p align="center"><a href="https://github.com/uncodeference/unmeetup/issues/new/choose">We would ♥ to hear from you! 😊</a></p>
 
 Just propose some talk idea via GitHub Issues or hit us up on Twitter. And **remember**, every dev-related topic is interesting and worth to talk about. The **un&lt;meet&gt;up** is the best place to get started with speaking. 💗
 
