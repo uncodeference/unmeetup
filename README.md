@@ -47,6 +47,8 @@
   <span><a href="https://www.google.com/maps/search/?api=1&query=Txture+GmbH%2C+Grabenweg+68%2C+Innsbruck%2C+6020%2C+at&query_place_id=ChIJifLJUpdrnUcRgwM9HzUAb7Q">Txture GmbH</a></span>
 </h3>
 
+<h3 align="center">Marcel Ritter</h3>
+<div align="center">Sphere Tessellation in OpenGL and F#</div>
 <h3 align="center">You have something to share with the community?</h3>
 <p align="center"><a href="https://github.com/uncodeference/unmeetup/issues/new/choose">We would ♥ to hear from you! 😊</a></p>
 
