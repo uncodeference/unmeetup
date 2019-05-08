@@ -49,6 +49,8 @@
 
 <h3 align="center">Marcel Ritter</h3>
 <div align="center">Sphere Tessellation in OpenGL and F#</div>
+<h3 align="center">Martin Häusler</h3>
+<div align="center">Kotlin 101: An Introduction</div>
 <h3 align="center">You have something to share with the community?</h3>
 <p align="center"><a href="https://github.com/uncodeference/unmeetup/issues/new/choose">We would ♥ to hear from you! 😊</a></p>
 
